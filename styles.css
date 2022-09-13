@@ -126,16 +126,11 @@ p {
 
 }
 
-.carousel-inner
-{width:980px;
-height:329px;
-left: 15%;}
 
 
 .testimonial-text {
   text-align: center;
-  width: 120%;
-  font-size: 2.3rem;
+  font-size: 3rem;
   line-height: 1.5;
 }
 
