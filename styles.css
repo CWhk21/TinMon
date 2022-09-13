@@ -122,22 +122,34 @@ p {
 
 #testimonials {
   background-color: #ffc107;
+  position: ;
+
 }
 
+.carousel-inner
+{width:980px;
+height:329px;
+left: 15%;}
+
+
 .testimonial-text {
-  font-size: 3rem;
+  text-align: center;
+  width: 120%;
+  font-size: 2.3rem;
   line-height: 1.5;
 }
 
 .testimonial-image {
-  width: 18%;
+  width: 15%;
   border-radius: 180%;
-  margin: 20px;
+  margin: 0px;
+  padding-bottom: 0%
 }
 
 
 #press {
   background-color: #ffc107;
+  position: relative;
   padding-bottom: 3%;
 }
 
